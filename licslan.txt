@@ -1,5 +1,0 @@
-hello world
-
-now  you can pull from github now
-
-xxx
