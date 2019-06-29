@@ -4,3 +4,6 @@ hello this is a test for upload file by source tree instead of git bash commond
 
 
 hi again i just play git 
+
+
+hi again and again i just learning how to play git
