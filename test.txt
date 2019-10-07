@@ -7,3 +7,5 @@ hi again i just play git
 
 
 hi again and again i just learning how to play git
+
+hello this is use bu linux os to commit code to github
